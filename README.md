@@ -7,3 +7,5 @@ YOU MUST PASTE GITHUB PROJECT LINK AT DOWNLOAD LINK ONLY.
 
                 Warning!
 This map can play maximum as 10 players
+
+Download at release!
